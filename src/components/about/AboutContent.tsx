@@ -2,7 +2,7 @@ export default function AboutContent() {
   return (
     <div className="mb-4 mt-6 tracking-wide flex flex-col gap-1 text-stone-600">
       <p className="text-sm sm:text-base lg:text-lg md:text-lg ">
-        안녕하세요! 프론트엔드 개발자 강지윤입니다.
+        안녕하세요! 프론트엔드 개발자 김승아입니다.
       </p>
       <p className="text-sm sm:text-base mt-2 lg:text-lg md:text-lg ">
         제가 하는 일에서 항상 즐거움을 찾으려고 합니다. 뭐든 즐기면서 하면
