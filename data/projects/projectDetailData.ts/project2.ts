@@ -1,5 +1,5 @@
 export const project2 = {
-  title: "지뢰찾기 게임",
+  title: "Thierre",
   intro: "지뢰찾기 게임 프로젝트",
   description:
     "지뢰찾기 게임을 구현한 프로젝트입니다. 지뢰가 있는 셀을 모두 찾거나, 혹은 지뢰가 없는 셀을 모두 열면 승리하는 게임입니다. Redux를 사용하여 게임 관련 데이터를 전역 관리하였습니다.",
