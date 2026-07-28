@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { AnimatePresence, Variants, motion, useAnimation } from "framer-motion";
 import { useEffect, useState } from "react";
-import ProfileImage from "../../../public/images/eeeyooon-profile.jpeg";
+import ProfileImage from "../../../public/images/sseuxnga-profile.png";
 import { sentence } from "../../../data/about/aboutData";
 import useTypeword from "@/hooks/useTypeword";
 import dynamic from "next/dynamic";
