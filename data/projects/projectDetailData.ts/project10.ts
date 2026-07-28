@@ -1,5 +1,5 @@
 export const project10 = {
-  title: "WAVED",
+  title: "Theclierre",
   intro: "개발 직군 취업 준비생을 위한 챌린지 플랫폼",
   description:
     "WAVED는 개발 직군 취업 준비생을 대상으로 챌린지를 제공하는 플랫폼입니다. 개발 직군 취업 준비에 도움이 될 수 있도록 맞춤형 챌린지를 제공합니다. 원하는 챌린지에 예치금을 걸고, 같은 챌린지를 신청한 참여자들끼리 답변을 공유하며 동기부여를 얻을 수 있도록 합니다. \r\n 6주간 기획부터 MVP 모델 출시까지 진행하였고, 4주 간 베타 테스트와 QA에 대응 후 공식 런칭하였습니다. 현재는 IT 교육기업인 (주) 멋쟁이 사자처럼의 서비스 라인에 탑재를 위한 인수인계 절차를 진행 중입니다.",
@@ -48,8 +48,8 @@ export const project10 = {
       ],
     },
   ],
-  startDate: "2024-02-29",
-  endDate: "2024-05-15",
+  startDate: "2026.04.27",
+  endDate: "2026.07.28",
   category: ["Team", "Featured"],
   path: "waved-challenge",
   featured: true,
