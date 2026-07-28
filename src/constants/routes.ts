@@ -13,7 +13,7 @@ export const ROUTES: Routes = {
   SKILLS: "#skills",
   PROJECTS: "#projects",
   CONTACT: "#contact",
-  GITHUB: "https://github.com/eeeyooon",
+  GITHUB: "https://github.com/theclierrekr/art.seunga",
 };
 
 export default ROUTES;

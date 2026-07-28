@@ -128,7 +128,7 @@ export default function AboutPage() {
                 />
               </div>
               <div className="flex flex-row gap-5 text-xs md:text-base mt-4 text-stone-600 w-full justify-center selection:bg-stone-300">
-                <Link href="https://github.com/eeeyooon" target="_blank" className="hover:font-semibold">
+                <Link href="https://github.com/theclierrekr/art.seunga" target="_blank" className="hover:font-semibold">
                   GitHub
                 </Link>
                 <a href="mailto:thierre.official@gmail.com" className="hover:font-semibold">
