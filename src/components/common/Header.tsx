@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 
 export default function Header() {
   const [toggleHeader, setToggleHeader] = useState(false);
-  const text = useTypeword("eeeyoon.", 60);
+  const text = useTypeword("sseuxnga.", 60);
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
