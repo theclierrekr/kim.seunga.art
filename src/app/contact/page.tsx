@@ -1,4 +1,3 @@
-import { IoIosCall } from "react-icons/io";
 import { CiMail } from "react-icons/ci";
 import ContactForm from "@/components/contact/ContactForm";
 
@@ -10,13 +9,9 @@ export default function ContactPage() {
     >
       <h2 className="my-2 font-SMUSnow text-blue_color text-xl md:text-2xl selection:bg-redbrown_color">Contact Me</h2>
       <div className="w-96 flex flex-col justify-between mt-10 text-lg">
-        <p className="flex justify-center items-center">
-          <IoIosCall className="mr-2" />
-          010-2613-2678
-        </p>
         <p className="flex justify-center items-center my-2">
           <CiMail className="mr-2" />
-          vywns4569@gmail.com
+          thierre.official@gmail.com
         </p>
       </div>
       <ContactForm />
