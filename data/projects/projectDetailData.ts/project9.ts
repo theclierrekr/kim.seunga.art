@@ -17,5 +17,5 @@ export const project9 = {
   githubUrl: "https://github.com/theclierrekr/art.seunga",
   docsUrl: "",
   serviceUrl: "https://kimseungaart-theclierrekr.vercel.app/",
-  images: 4,
+  images: 1,
 };
