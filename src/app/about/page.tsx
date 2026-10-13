@@ -92,7 +92,7 @@ export default function AboutPage() {
               animate={{ opacity: 1 }}
               transition={{ delay: 1.6 }}
             >
-              프론트엔드 개발자 <span className="font-bold">김승아</span>
+              AI 개발자 <span className="font-bold">김승아</span>
               입니다.
             </motion.span>
           </motion.div>
